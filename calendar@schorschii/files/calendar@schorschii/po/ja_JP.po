@@ -1,0 +1,236 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-20 13:45-0600\n"
+"PO-Revision-Date: 2020-05-20 13:46-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: desklet.js:122
+msgid "Monday"
+msgstr "月曜"
+
+#: desklet.js:123
+msgid "Tuesday"
+msgstr "火曜日"
+
+#: desklet.js:124
+msgid "Wednesday"
+msgstr "水曜日"
+
+#: desklet.js:125
+msgid "Thursday"
+msgstr "木曜日"
+
+#: desklet.js:126
+msgid "Friday"
+msgstr "金曜日"
+
+#: desklet.js:127
+msgid "Saturday"
+msgstr "土曜日"
+
+#: desklet.js:128
+msgid "Sunday"
+msgstr "日曜日"
+
+#: desklet.js:131
+msgid "January"
+msgstr "一月"
+
+#: desklet.js:132
+msgid "February"
+msgstr "二月"
+
+#: desklet.js:133
+msgid "March"
+msgstr "三月"
+
+#: desklet.js:134
+msgid "April"
+msgstr "四月"
+
+#: desklet.js:135
+msgid "May"
+msgstr "五月"
+
+#: desklet.js:136
+msgid "June"
+msgstr "六月"
+
+#: desklet.js:137
+msgid "July"
+msgstr "七月"
+
+#: desklet.js:138
+msgid "August"
+msgstr "八月"
+
+#: desklet.js:139
+msgid "September"
+msgstr "九月"
+
+#: desklet.js:140
+msgid "October"
+msgstr "十月"
+
+#: desklet.js:141
+msgid "November"
+msgstr "十一月"
+
+#: desklet.js:142
+msgid "December"
+msgstr "十二月"
+
+#. calendar@schorschii->metadata.json->name
+#: desklet.js:275
+msgid "Calendar"
+msgstr "カレンダー"
+
+#. calendar@schorschii->metadata.json->description
+msgid ""
+"A calendar desklet that can display the number of today's appointments from "
+"an ical file."
+msgstr "からの今日の予定の数を表示できるカレンダーデスクレット"
+
+#. calendar@schorschii->settings-schema.json->notification-color->description
+msgid "Appointment number background color"
+msgstr "予約番号の背景色"
+
+#. calendar@schorschii->settings-schema.json->notification-color->tooltip
+msgid "Set the appointment number background color of this desklet."
+msgstr "このデスクレットの予約番号の背景色を設定します。"
+
+#. calendar@schorschii->settings-schema.json->hide-decorations->description
+msgid "Hide decorations"
+msgstr "装飾を隠す"
+
+#. calendar@schorschii->settings-schema.json->head3->description
+msgid "Custom desklet label (only visible if decorations are enabled)"
+msgstr "カスタムデスクレットラベル（装飾が有効な場合にのみ表示されます）"
+
+#. calendar@schorschii->settings-schema.json->head2->description
+msgid "Number of appointments"
+msgstr "予約数"
+
+#. calendar@schorschii->settings-schema.json->head1->description
+msgid "Visual"
+msgstr "ビジュアル"
+
+#. calendar@schorschii->settings-schema.json->head0->description
+msgid "Settings for calendar@schorschii"
+msgstr "calendar@schorschii設定"
+
+#. calendar@schorschii->settings-schema.json->bg-img->description
+msgid "Calendar style"
+msgstr "カレンダースタイル"
+
+#. calendar@schorschii->settings-schema.json->bg-img->tooltip
+msgid "Select the background graphic you would like to use."
+msgstr "使用する背景グラフィックを選択します。"
+
+#. calendar@schorschii->settings-schema.json->bg-img->options
+msgid "Orange"
+msgstr "オレンジ"
+
+#. calendar@schorschii->settings-schema.json->bg-img->options
+msgid "White"
+msgstr "白"
+
+#. calendar@schorschii->settings-schema.json->text-color->description
+msgid "Text color"
+msgstr "テキストの色"
+
+#. calendar@schorschii->settings-schema.json->text-color->tooltip
+msgid "Set the text color of this desklet."
+msgstr "このデスクレットのテキストの色を設定します。"
+
+#. calendar@schorschii->settings-schema.json->read-appointments->description
+msgid "Show the number of today's appointments parsed from an ical file"
+msgstr "icalファイルから解析された今日の予定の数を表示します"
+
+#. calendar@schorschii->settings-schema.json->read-appointments->tooltip
+msgid ""
+"Checking this box allows you to set an ical file to parse in the field below."
+msgstr "このボックスをチェックすると、以下のフィールドで解析するicalファイルを設定できます。"
+
+#. calendar@schorschii->settings-schema.json->ical-file->description
+msgid "Path to ical file"
+msgstr "icalファイルへのパス"
+
+#. calendar@schorschii->settings-schema.json->ical-file->tooltip
+msgid ""
+"Select your ical file for reading the amount of appointments today.\n"
+"\n"
+"You can configure Lightning (the Thunderbird Add-On) to save your calendar "
+"in an ical file."
+msgstr ""
+"今日の予定の量を読むためのicalファイルを選択してください。\n"
+"\n"
+"カレンダーを保存するようにLightning（Thunderbirdアドオン）を設定できます "
+"icalファイル。"
+
+#. calendar@schorschii->settings-schema.json->scale-size->description
+msgid "Desklet size"
+msgstr "デスクレットサイズ"
+
+#. calendar@schorschii->settings-schema.json->scale-size->tooltip
+msgid "Increase or decrease the size of the calendar using this scale factor."
+msgstr "このスケール係数を使用して、カレンダーのサイズを拡大または縮小します。"
+
+#. calendar@schorschii->settings-schema.json->scale-size->units
+msgid "scale factor"
+msgstr "スケールファクター"
+
+#. calendar@schorschii->settings-schema.json->use-custom-label->description
+msgid "Use a custom desklet label"
+msgstr "カスタムデスクレットラベルを使用する"
+
+#. calendar@schorschii->settings-schema.json->use-custom-label->tooltip
+msgid "Checking this box allows you to set a custom label in the field below."
+msgstr "このチェックボックスをオンにすると、下のフィールドにカスタムラベルを設定できます。"
+
+#. calendar@schorschii->settings-schema.json->custom-label->description
+msgid "Custom desklet label"
+msgstr "カスタムデスクレットラベル"
+
+#. calendar@schorschii->settings-schema.json->custom-label->tooltip
+msgid ""
+"Set your custom label here, e.g. for monitoring multiple ical files. This "
+"field is unavailable unless the checkbox above is enabled."
+msgstr ""
+"ここにカスタムラベルを設定します。 複数のicalファイルを監視するため。 この"
+"上記のチェックボックスが有効になっていない場合、フィールドは使用できません。"
+
+msgid "Appointment number color"
+msgstr "予約番号の色"
+
+msgid "Start program on click of the desklet"
+msgstr "デスクレットをクリックしてプログラムを開始する"
+
+msgid "Start a program (e.g. Thunderbird)"
+msgstr "プログラムを開始する（例：Thunderbird)"
+
+msgid ""
+"The command entered below will be executed on mouse click of the desklet. So "
+"you can directly start Thunderbird."
+msgstr ""
+"以下に入力したコマンドは、デスクレットをマウスでクリックすると実行されます。 そう Thunderbirdを直接起動できます"
+
+msgid "Command line"
+msgstr "コマンドライン"
+
+msgid "Set your program including parameters to start on click."
+msgstr "クリックで開始するパラメーターを含むプログラムを設定します。"
